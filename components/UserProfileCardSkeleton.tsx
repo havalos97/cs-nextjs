@@ -9,7 +9,7 @@ import ListItemText from '@mui/material/ListItemText';
 
 const UserProfileCardSkeleton: React.FC = () => {
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card>
       <Box sx={{ display: 'flex', justifyContent: 'center', padding: 2 }}>
         <Skeleton variant="circular" width={140} height={140} />
       </Box>
