@@ -36,3 +36,6 @@ $ docker compose up
 ```
 7. Go to http://localhost:3000 to access the Frontend page
 9. Make sure the React frontend page works as expected.
+
+## Live preview
+https://cs-nextjs.vercel.app/
