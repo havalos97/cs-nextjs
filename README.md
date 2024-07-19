@@ -39,3 +39,10 @@ $ docker compose up
 
 ## Live preview
 https://cs-nextjs.vercel.app/
+
+## References
+- https://app.quicktype.io/
+- https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d
+- https://mui.com/
+- https://nextjs.org/docs
+- https://www.mockaroo.com/
