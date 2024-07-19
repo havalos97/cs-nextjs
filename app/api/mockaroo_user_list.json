@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "firstName": "Denis",
+        "lastName": "Sanders",
+        "email": "dsanders0@earthlink.net",
+        "gender": "Male",
+        "profileLink": "/profile/1",
+        "profilePic": "https://robohash.org/autemaccusamuscupiditate.png?size=50x50&set=set1",
+        "friends": [8,9,10]
+    },
+    {
+        "id": 2,
+        "firstName": "Fee",
+        "lastName": "Newport",
+        "email": "fnewport1@cnet.com",
+        "gender": "Male",
+        "profileLink": "/profile/2",
+        "profilePic": "https://robohash.org/eteligendiarchitecto.png?size=50x50&set=set1",
+        "friends": [5,6,7]
+    },
+    {
+        "id": 3,
+        "firstName": "Lorenzo",
+        "lastName": "Ismail",
+        "email": "lismail2@4shared.com",
+        "gender": "Male",
+        "profileLink": "/profile/3",
+        "profilePic": "https://robohash.org/autveniamrepellat.png?size=50x50&set=set1",
+        "friends": []
+    },
+    {
+        "id": 4,
+        "firstName": "Lew",
+        "lastName": "Peirpoint",
+        "email": "lpeirpoint3@csmonitor.com",
+        "gender": "Male",
+        "profileLink": "/profile/4",
+        "profilePic": "https://robohash.org/illoseddoloremque.png?size=50x50&set=set1",
+        "friends": []
+    },
+    {
+        "id": 5,
+        "firstName": "Sargent",
+        "lastName": "Janson",
+        "email": "sjanson4@sphinn.com",
+        "gender": "Male",
+        "profileLink": "/profile/5",
+        "profilePic": "https://robohash.org/nequequaspraesentium.png?size=50x50&set=set1",
+        "friends": [2,6,7]
+    },
+    {
+        "id": 6,
+        "firstName": "Ode",
+        "lastName": "Bahde",
+        "email": "obahde5@scientificamerican.com",
+        "gender": "Male",
+        "profileLink": "/profile/6",
+        "profilePic": "https://robohash.org/estutsimilique.png?size=50x50&set=set1",
+        "friends": [2,5,7]
+    },
+    {
+        "id": 7,
+        "firstName": "Gunar",
+        "lastName": "Ruprecht",
+        "email": "gruprecht6@tmall.com",
+        "gender": "Male",
+        "profileLink": "/profile/7",
+        "profilePic": "https://robohash.org/temporavelaliquam.png?size=50x50&set=set1",
+        "friends": [2,5,6]
+    },
+    {
+        "id": 8,
+        "firstName": "Fancie",
+        "lastName": "Manby",
+        "email": "fmanby7@macromedia.com",
+        "gender": "Female",
+        "profileLink": "/profile/8",
+        "profilePic": "https://robohash.org/rerumsaepeoptio.png?size=50x50&set=set1",
+        "friends": [1,9,10]
+    },
+    {
+        "id": 9,
+        "firstName": "Kerby",
+        "lastName": "Linnemann",
+        "email": "klinnemann8@topsy.com",
+        "gender": "Male",
+        "profileLink": "/profile/9",
+        "profilePic": "https://robohash.org/eaeumdolore.png?size=50x50&set=set1",
+        "friends": [1,8,10]
+    },
+    {
+        "id": 10,
+        "firstName": "Sherwood",
+        "lastName": "Caughey",
+        "email": "scaughey9@ycombinator.com",
+        "gender": "Male",
+        "profileLink": "/profile/10",
+        "profilePic": "https://robohash.org/praesentiumrerumsit.png?size=50x50&set=set1",
+        "friends": [1,8,9]
+    }
+]
