@@ -26,16 +26,20 @@
 ```sh
 $ cd cs-nextjs/
 ```
-5. Run the following command to build the containers.
+3. Install dependencies with:
+```sh
+$ yarn
+```
+4. Run the following command to build the containers.
 ```sh
 $ docker compose build
 ```
-6. Once the build script has finished, run the project with the following command.
+5. Once the build script has finished, run the project with the following command.
 ```sh
 $ docker compose up
 ```
-7. Go to http://localhost:3000 to access the Frontend page
-9. Make sure the React frontend page works as expected.
+6. Go to http://localhost:3000 to access the Frontend page
+7. Make sure the React frontend page works as expected.
 
 ## Live preview
 https://cs-nextjs.vercel.app/
